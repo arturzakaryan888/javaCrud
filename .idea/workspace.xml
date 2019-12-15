@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e86e98b6-a6b0-4a0e-b0c6-384fac1ef8d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/front/front-part/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/front/front-part/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/front-part/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/front-part/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/front-part/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/front-part/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/front-part/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/front-part/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/front-part/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/front-part/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/front-part/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/front-part/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/front-part/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/project/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/project/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/project/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/project/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/project/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/project/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/project/src/main.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="webaplication" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/front/front-part" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UlLrPrC2CLl9VblLB8hIhk9dle" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tasl" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="webaplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arli.webapplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.arli.webapplication.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e86e98b6-a6b0-4a0e-b0c6-384fac1ef8d4" name="Default Changelist" comment="" />
+      <created>1575926433931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575926433931</updated>
+      <workItem from="1575926438945" duration="20070000" />
+      <workItem from="1576137170762" duration="25232000" />
+      <workItem from="1576246069406" duration="37160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
